@@ -1,0 +1,28 @@
+{
+  "name": "wrestlehub",
+  "version": "1.0.0",
+  "description": "Hub for Wrestling Enthusiasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRedSamurai/WrestleHub.git"
+  },
+  "keywords": [
+    "wrestling",
+    "wwe",
+    "aew",
+    "nwa",
+    "impact",
+    "aaa",
+    "njpw"
+  ],
+  "author": "Akash Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeRedSamurai/WrestleHub/issues"
+  },
+  "homepage": "https://github.com/CodeRedSamurai/WrestleHub#readme"
+}
