@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/CodeRedSamurai/WrestleHub/issues"
   },
-  "homepage": "https://github.com/CodeRedSamurai/WrestleHub#readme"
+  "homepage": "https://github.com/CodeRedSamurai/WrestleHub#readme",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2"
+  }
 }
